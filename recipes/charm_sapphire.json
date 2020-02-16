@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " N ",
+    "NEN",
+    " N "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:gold_ingot"
+    },
+    "i": {
+      "item": "iceandfire:sapphireGem"
+    }
+  },
+  "result": {
+    "item": "mb:charm_sapphire"
+  }
+}

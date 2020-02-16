@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DN ",
+    "N N",
+    " N "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:gold_ingot"
+    },
+    "D": {
+      "item": "mb:ruby"
+      }
+    },
+  "result": {
+    "item": "mb:ring_ruby"
+   }
+}

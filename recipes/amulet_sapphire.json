@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "S S",
+    "ES "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "E": {
+      "item": "mb:charm_sapphire"
+    }
+  },
+  "result": {
+    "item": "mb:amulet_sapphire"
+    }
+}

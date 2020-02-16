@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mb",
+  "name": "Modular Baubles",
+  "description": "Enchantable Baubles",
+  "version": "1.0",
+  "mcversion": "1.12.2-14.23.5.2847",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mykeuaa16"],
+  "credits": "HarryTalks Youtube tutorials",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

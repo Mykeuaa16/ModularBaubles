@@ -1,0 +1,39 @@
+item.ring_iron.name=Iron Ring
+item.ring_gold.name=Gold Ring
+item.ring_diamond.name=Diamond Ring
+item.ring_emerald.name=Emerald Ring
+item.ring_ruby.name=Ruby Ring
+item.ring_sapphire.name=Sapphire Ring
+item.ring_silver.name=Silver Ring
+
+item.cloak_emerald.name=Emerald Cloak 
+item.cloak_sapphire.name=Sapphire Cloak
+item.cloak_ruby.name=Ruby Cloak
+item.cloak_diamond.name=Diamond Cloak
+item.cloak_iron.name=Iron Cloak
+item.cloak_gold.name=Gold Cloak
+item.cloak_silver.name=Silver Cloak
+
+item.belt_iron.name=Iron Belt
+item.belt_gold.name=Gold Belt
+item.belt_silver.name=Silver Belt
+item.belt_diamond.name=Diamond Belt
+item.belt_emerald.name=Emerald Belt
+item.belt_sapphire.name=Sapphire Belt
+item.belt_ruby.name=Ruby Belt
+
+item.charm_emerald.name=Emerald Charm
+item.charm_sapphire.name=Sapphire Charm
+item.charm_ruby.name=Ruby Charm
+item.charm_diamond.name=Diamond Charm
+
+item.amulet_emerald.name=Emerald Amulet
+item.amulet_ruby.name=Ruby Amulet
+item.amulet_sapphire.name=Sapphire Amulet
+item.amulet_diamond.name=Diamond Amulet
+
+item.ruby.name=Ruby
+tile.block_ruby.name=Ruby Block
+tile.ore_overworld.ruby.name=Ruby Ore
+
+enchantment.frostwalker.name= Frost Walker

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  W",
+    " WS",
+    " WE"
+  ],
+  "key": {
+    "W": {
+          "item": "minecraft:leather"
+        },
+    "S": {
+      "item": "minecraft:string"
+     },
+    "E": {
+      "item": "mb:charm_diamond"
+      }
+    },
+  "result": {
+    "item": "mb:cloak_diamond"
+   }
+}
